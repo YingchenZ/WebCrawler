@@ -1,0 +1,151 @@
+Team members:
+Jay Zhang       66051593
+Chentao Ye      48361846
+Yingchen Zhou   55879895
+Jiawen Ye       54035818
+
+1.  All unique urls (including similar pages): 7736
+
+2.  The longest URL is: http://www.ics.uci.edu/~kay/wordlist.txt
+    385018 words
+
+3.  50 most common words:
+
+    research --> 24007
+    computer --> 15446
+    ramesh --> 14082
+    information --> 13294
+    software --> 12808
+    student --> 12521
+    students --> 11623
+    will --> 11082
+    news --> 8612
+    current --> 8498
+    data --> 8483
+    past --> 8477
+    engineering --> 8457
+    science --> 8435
+    informatics --> 8433
+    read --> 8377
+    graduate --> 8330
+    courses --> 8190
+    january --> 8112
+    undergraduate --> 7914
+    books --> 7860
+    events --> 7753
+    december --> 7638
+    november --> 7520
+    october --> 7386
+    search --> 7238
+    september --> 7187
+    projects --> 7110
+    june --> 7103
+    july --> 6924
+    computing --> 6890
+    august --> 6717
+    march --> 6667
+    department --> 6620
+    people --> 6508
+    jain --> 6443
+    april --> 6401
+    february --> 6393
+    support --> 6318
+    design --> 5534
+    course --> 5480
+    contact --> 5429
+    university --> 5407
+    solid --> 5227
+    complete --> 5036
+    faculty --> 5019
+    school --> 5017
+    profiles --> 4969
+    blogs --> 4864
+    bren --> 4848
+
+4.  List of subdomains for ics.uci.edu (ordered alphabetically):
+
+    http://aiclub.ics.uci.edu, 1
+    http://archive.ics.uci.edu, 5
+    http://asterix-gerrit.ics.uci.edu, 1
+    http://asterix.ics.uci.edu, 6
+    http://calendar.ics.uci.edu, 1
+    http://cbcl.ics.uci.edu, 4
+    http://cert.ics.uci.edu, 2
+    http://checkmate.ics.uci.edu, 1
+    http://chenli.ics.uci.edu, 1
+    http://cml.ics.uci.edu, 162
+    http://computableplant.ics.uci.edu, 32
+    http://cradl.ics.uci.edu, 20
+    http://cwicsocal18.ics.uci.edu, 12
+    http://cyberclub.ics.uci.edu, 1
+    http://dejavu.ics.uci.edu, 1
+    http://duttgroup.ics.uci.edu, 87
+    http://dynamo.ics.uci.edu, 1
+    http://elms.ics.uci.edu, 1
+    http://emj.ics.uci.edu, 45
+    http://esl.ics.uci.edu, 1
+    http://evoke.ics.uci.edu, 75
+    http://flamingo.ics.uci.edu, 6
+    http://fr.ics.uci.edu, 3
+    http://frost.ics.uci.edu, 1
+    http://futurehealth.ics.uci.edu, 9
+    http://grape.ics.uci.edu, 13
+    http://graphics.ics.uci.edu, 3
+    http://graphmod.ics.uci.edu, 1
+    http://hai.ics.uci.edu, 2
+    http://hana.ics.uci.edu, 19
+    http://helpdesk.ics.uci.edu, 1
+    http://hombao.ics.uci.edu, 1
+    http://honors.ics.uci.edu, 19
+    http://i-sensorium.ics.uci.edu, 1
+    http://iasl.ics.uci.edu, 9
+    http://informatics.ics.uci.edu, 1
+    http://intranet.ics.uci.edu, 1
+    http://ipf.ics.uci.edu, 2
+    http://ipubmed.ics.uci.edu, 1
+    http://isg.ics.uci.edu, 114
+    http://jgarcia.ics.uci.edu, 18
+    http://keys.ics.uci.edu, 1
+    http://mailman.ics.uci.edu, 4
+    http://malek.ics.uci.edu, 1
+    http://mcs.ics.uci.edu, 40
+    http://mdogucu.ics.uci.edu, 1
+    http://mhcid.ics.uci.edu, 15
+    http://mondego.ics.uci.edu, 3
+    http://mse.ics.uci.edu, 1
+    http://mswe.ics.uci.edu, 20
+    http://nalini.ics.uci.edu, 7
+    http://ngs.ics.uci.edu, 2026
+    http://perennialpolycultures.ics.uci.edu, 1
+    http://plrg.ics.uci.edu, 9
+    http://psearch.ics.uci.edu, 1
+    http://redmiles.ics.uci.edu, 7
+    http://riscit.ics.uci.edu, 1
+    http://sconce.ics.uci.edu, 2
+    http://sdcl.ics.uci.edu, 215
+    http://seal.ics.uci.edu, 6
+    http://sherlock.ics.uci.edu, 1
+    http://sli.ics.uci.edu, 338
+    http://sourcerer.ics.uci.edu, 1
+    http://sprout.ics.uci.edu, 2
+    http://statconsulting.ics.uci.edu, 5
+    http://student-council.ics.uci.edu, 1
+    http://studentcouncil.ics.uci.edu, 1
+    http://support.ics.uci.edu, 2
+    http://tastier.ics.uci.edu, 1
+    http://tippersweb.ics.uci.edu, 1
+    http://transformativeplay.ics.uci.edu, 48
+    http://tutors.ics.uci.edu, 1
+    http://ugradforms.ics.uci.edu, 1
+    http://vision.ics.uci.edu, 7
+    http://wearablegames.ics.uci.edu, 11
+    http://wics.ics.uci.edu, 473
+    http://www-db.ics.uci.edu, 11
+    http://www.cert.ics.uci.edu, 1
+    http://www.graphics.ics.uci.edu, 1
+    http://www.ics.uci.edu, 1238
+    http://www.informatics.ics.uci.edu, 1
+    http://xtune.ics.uci.edu, 6
+
+
+
